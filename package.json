@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "gulp": "^5.0.0",
+    "gulp-dart-sass": "^1.1.0",
+    "sass": "^1.77.8"
+  }
+}
